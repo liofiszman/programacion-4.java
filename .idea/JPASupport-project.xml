@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="addEntitySuffix" value="Entity" />
+    <option name="ifJavaKeywordAddSuffix" value="" />
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="programacion-4" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="programacion-4">
+          <value>
+            <ModuleSettings>
+              <option name="controllerParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="dtoParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="entityPackageName" value="Entities" />
+              <option name="entityParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="generateService" value="true" />
+              <option name="mapperXmlParentDirectory" value="$PROJECT_DIR$/src/main/resources" />
+              <option name="repositoryPackageName" value="Repositories" />
+              <option name="repositoryParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="servicePackageName" value="Services" />
+              <option name="serviceParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="voParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="removeEntityPrefix" value="" />
+    <option name="removeFieldPrefix" value="" />
+    <option name="useJava8DateType" value="true" />
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="language" value="es-AR" />
+  </component>
+</project>
