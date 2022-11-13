@@ -37,6 +37,6 @@
         <Label fx:id="selectedEspecialidad" textAlignment="LEFT" maxWidth="50.0" visible="false"/>
         <Label fx:id="selectedCompania" textAlignment="RIGHT" maxWidth="50.0" visible="false"/>
     </HBox>
-    <Button onAction="#verOpcionesButtonClick" text="Ver opciones" />
+    <Button fx:id="ButtonVerOpciones" onAction="#verOpcionesButtonClick" text="Ver opciones" />
     <Button onAction="#backToHome" text="Cancelar" />
 </VBox>

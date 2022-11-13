@@ -6,6 +6,7 @@ import com.programacion.cuatro.Entities.MecanicoEntity;
 import com.programacion.cuatro.Entities.TurnoEntity;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
@@ -43,6 +44,7 @@ public class AsistenciaController extends BaseController  {
             datosTurnoSecondText.setText("Mecánico "+mecanico.getNombre()+", "+mecanico.getEspecialidad());
         }
     }
+
 
     @FXML
     protected void confirmarTurnoButtonClick(ActionEvent event) throws IOException {

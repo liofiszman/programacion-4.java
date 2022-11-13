@@ -9,25 +9,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e91a7b1-eab4-4380-8919-0c98634ac732" name="Changes" comment="Added JUNIT AND EXAMPLE">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_macro_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_nio_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_sql_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_templates_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_test_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_3_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_spockframework_spock_core_1_3_groovy_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testfx_testfx_core_4_0_16_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testfx_testfx_junit5_4_0_16_alpha.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testfx_testfx_spock_4_0_16_alpha.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_13_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_1.xml" afterDir="false" />
+    <list default="true" id="6e91a7b1-eab4-4380-8919-0c98634ac732" name="Changes" comment="Added JUNIT AND TESTFX">
+      <change afterPath="$PROJECT_DIR$/src/test/com/programacion/cuatro/Controllers/ActividadesControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/programacion/cuatro/Controllers/AsistenciaControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/programacion/cuatro/Controllers/TurnosControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programacion-4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/programacion-4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/programacion/cuatro/Controllers/AsistenciaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/programacion/cuatro/Controllers/AsistenciaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Views/asistencia-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Views/asistencia-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Views/calendario-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Views/calendario-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/com/programacion/cuatro/Business/TurnoBusinessObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/com/programacion/cuatro/Business/TurnoBusinessObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Views/actividades-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Views/actividades-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Views/calendario-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Views/calendario-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/programacion/cuatro/Controllers/AsistenciaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/programacion/cuatro/Controllers/AsistenciaController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,41 +97,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "true",
-    "JPA.DatabaseSchemaImportDialog": "1dab3bdc-7096-4402-996d-50154916eb6c",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "/Users/lionelfiszman/Documents/GitHub/programacion-4/src/main/resources/META-INF/persistence.xml",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.44942528",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "eb8b8b7e139a27c4574985a0314bddf8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;JPA.DatabaseSchemaImportDialog&quot;: &quot;1dab3bdc-7096-4402-996d-50154916eb6c&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lionelfiszman/Documents/GitHub/programacion-4/src/main/resources/META-INF/persistence.xml&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.44942528&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;eb8b8b7e139a27c4574985a0314bddf8&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ],
-    "DatabaseDriversLRU": [
-      "mysql"
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -155,6 +148,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.programacion.cuatro.Controllers" />
       <recent name="com.programacion.cuatro.Business" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
@@ -162,15 +156,96 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.programacion.cuatro.Controllers" />
       <recent name="com.programacion.cuatro" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.Programacion 4">
+  <component name="RunManager" selected="JUnit.AsistenciaControllerTest.verificarAsistenciaConTurno">
     <configuration name="Run" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="liberica-11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.programacion.cuatro.MainApplication" />
       <module name="programacion-4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActividadesControllerTest.datosTurnoButtonClick_ConfirmaSinTurno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programacion-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programacion.cuatro.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.programacion.cuatro.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.programacion.cuatro.Controllers.ActividadesControllerTest" />
+      <option name="METHOD_NAME" value="datosTurnoButtonClick_ConfirmaSinTurno(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AsistenciaControllerTest.verificarAsistenciaConTurno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programacion-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programacion.cuatro.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.programacion.cuatro.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.programacion.cuatro.Controllers.AsistenciaControllerTest" />
+      <option name="METHOD_NAME" value="verificarAsistenciaConTurno(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnosControllerTest.FechaTurnoButtonClick_FechaPasada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programacion-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programacion.cuatro.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.programacion.cuatro.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.programacion.cuatro.Controllers.TurnosControllerTest" />
+      <option name="METHOD_NAME" value="FechaTurnoButtonClick_FechaPasada(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnosControllerTest.datosTurnoButtonClick_ConfirmaSinEspecialidad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programacion-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programacion.cuatro.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.programacion.cuatro.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.programacion.cuatro.Controllers.TurnosControllerTest" />
+      <option name="METHOD_NAME" value="datosTurnoButtonClick_ConfirmaSinEspecialidad(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurnosControllerTest.datosTurnoButtonClick_ConfirmaSinTurno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programacion-4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.programacion.cuatro.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.programacion.cuatro.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.programacion.cuatro.Controllers.TurnosControllerTest" />
+      <option name="METHOD_NAME" value="datosTurnoButtonClick_ConfirmaSinTurno(org.testfx.api.FxRobot)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -185,8 +260,22 @@
     </configuration>
     <list>
       <item itemvalue="Application.Run" />
+      <item itemvalue="JUnit.ActividadesControllerTest.datosTurnoButtonClick_ConfirmaSinTurno" />
+      <item itemvalue="JUnit.AsistenciaControllerTest.verificarAsistenciaConTurno" />
+      <item itemvalue="JUnit.TurnosControllerTest.FechaTurnoButtonClick_FechaPasada" />
+      <item itemvalue="JUnit.TurnosControllerTest.datosTurnoButtonClick_ConfirmaSinEspecialidad" />
+      <item itemvalue="JUnit.TurnosControllerTest.datosTurnoButtonClick_ConfirmaSinTurno" />
       <item itemvalue="Spring Boot.Programacion 4" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AsistenciaControllerTest.verificarAsistenciaConTurno" />
+        <item itemvalue="JUnit.TurnosControllerTest.datosTurnoButtonClick_ConfirmaSinEspecialidad" />
+        <item itemvalue="JUnit.TurnosControllerTest.datosTurnoButtonClick_ConfirmaSinTurno" />
+        <item itemvalue="JUnit.TurnosControllerTest.FechaTurnoButtonClick_FechaPasada" />
+        <item itemvalue="JUnit.ActividadesControllerTest.datosTurnoButtonClick_ConfirmaSinTurno" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SpringBeansView">
@@ -210,7 +299,8 @@
       <workItem from="1668018353485" duration="16623000" />
       <workItem from="1668121673511" duration="3467000" />
       <workItem from="1668125233865" duration="1111000" />
-      <workItem from="1668126385930" duration="1200000" />
+      <workItem from="1668126385930" duration="3205000" />
+      <workItem from="1668373055714" duration="9017000" />
     </task>
     <task id="LOCAL-00001" summary="sarasa">
       <created>1665181184047</created>
@@ -275,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668126644652</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added JUNIT AND TESTFX">
+      <created>1668127651402</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668127651402</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +423,8 @@
     <MESSAGE value="IML" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added JUNIT AND EXAMPLE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added JUNIT AND EXAMPLE" />
+    <MESSAGE value="Added JUNIT AND TESTFX" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added JUNIT AND TESTFX" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -338,7 +436,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/programacion/cuatro/Controllers/AsistenciaController.java</url>
-          <line>72</line>
+          <line>74</line>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

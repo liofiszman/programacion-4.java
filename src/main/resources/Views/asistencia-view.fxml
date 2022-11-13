@@ -19,7 +19,7 @@
         <TextField fx:id="TurnoTextField" prefHeight="25.0" prefWidth="200.0" promptText="número de turno..." />
     </HBox>
 
-    <Button text="Buscar" onAction="#datosTurnoButtonClick"/>
+    <Button text="Buscar"  fx:id="ButtonBuscar" onAction="#datosTurnoButtonClick"/>
 
     <Label fx:id="datosTurnoText"/>
     <Label fx:id="datosTurnoSecondText"/>
